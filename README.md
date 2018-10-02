@@ -1,9 +1,10 @@
 # C-Codes
 Welcome!
-This is my repository where I store almost all the Codes written in C for practise, or other purposes
+This is a repository for the little C programs I created while practising C.
+It contains many examples.
 
 Feel free to study the codes.
 
 Open a new Issue if you have any doubts and problems, or want to suggest something.
 
-Thanks for visiting.
+####Thanks for visiting.
